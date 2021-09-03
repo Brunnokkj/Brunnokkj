@@ -31,5 +31,5 @@
   
 
  <a href="#" alt="Discord">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=discord&logoColor=white&link=https://discord.gg/kuqYjhruK6"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=5a96e6&logo=discord&logoColor=white&link=https://discord.gg/kuqYjhruK6"/></a>
   
