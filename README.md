@@ -9,7 +9,7 @@
 
 **Meus bots**
 
-  ![Molly](https://discord.com/oauth2/authorize?client_id=688890062938701825&scope=bot&permissions=3534153)
+  <a href="https://discord.com/oauth2/authorize?client_id=688890062938701825&scope=bot&permissions=3534153">Molly</a>
 
 **Ferramentas de Desenvolvimento que eu utilizo**
 
