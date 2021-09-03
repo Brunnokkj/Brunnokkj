@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Brunnokkj&color=006bed)
+![](https://komarev.com/ghpvc/?username=Brunnokkj&color=c219d8)
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
