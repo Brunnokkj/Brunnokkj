@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=Brunnokkj&color=c219d8)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 🥰 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Um simples programador de discord.
-- 🎓 &nbsp; Mandrak e afins
-- 💼 &nbsp; Curto mulheres (de preferencia careca)
-- 🌱 &nbsp; vulgo brunnofuzil
+• 🤖 &nbsp; Um simples programador de discord.
+• 🤕 &nbsp; Mandrak e afins
+- 👨‍🦲 &nbsp; Curto mulheres (de preferencia careca)
+- 🔫 &nbsp; vulgo brunnofuzil
 
 **Meus bots**
 
