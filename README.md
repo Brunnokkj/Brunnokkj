@@ -2,7 +2,7 @@
 
 <h3> 🥰 &nbsp;Sobre mim </h3>
 
-- • 🤖 &nbsp; Um simples programador de discord.
+- • 🤖 &nbsp; faço robozinho pra discord.
 - • 🤕 &nbsp; Mandrak e afins
 - • 👨‍🦲 &nbsp; Curto mulheres (de preferencia careca)
 - • 🔫 &nbsp; vulgo brunnofuzil
