@@ -10,6 +10,7 @@
 **Meus bots**
 
   <a href="https://discord.com/oauth2/authorize?client_id=688890062938701825&scope=bot&permissions=3534153">Molly</a>
+  <a href="https://discord.com/oauth2/authorize?client_id=688890199773544450&scope=bot&permissions=3534153">Spotify</a>
 
 **Ferramentas de Desenvolvimento que eu utilizo**
 
