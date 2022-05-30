@@ -7,15 +7,11 @@
 - • 👨‍🦲 &nbsp; Curto mulheres (de preferencia careca)
 - • 🔫 &nbsp; vulgo brunnofuzil
 
-**Molly**
+**Meus projetos**
 
-  <a href="https://discord.com/oauth2/authorize?client_id=688890062938701825&scope=bot&permissions=3534153">Molly</a>
-**site de bio**
-
-  <a href="https://ggbio.wtf/">ggbio</a>
-**tracker**
-
-  <a href="https://tracker.147.wtf/">147 tracker</a>
+  - <a href="https://discord.com/oauth2/authorize?client_id=688890062938701825&scope=bot&permissions=3534153">molly</a>
+- <a href="https://ggbio.wtf/">ggbio</a>
+- <a href="https://tracker.147.wtf">tracker</a>
 
 **Ferramentas de Desenvolvimento que eu utilizo**
 
