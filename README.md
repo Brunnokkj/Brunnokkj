@@ -10,6 +10,12 @@
 **Molly**
 
   <a href="https://discord.com/oauth2/authorize?client_id=688890062938701825&scope=bot&permissions=3534153">Molly</a>
+**ggbio**
+
+  <a href="https://ggbio.wtf/">Site de bio</a>
+**tracker**
+
+  <a href="https://tracker.147.wtf/">Site de bio</a>
 
 **Ferramentas de Desenvolvimento que eu utilizo**
 
